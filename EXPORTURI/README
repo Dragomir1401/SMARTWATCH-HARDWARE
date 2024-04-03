@@ -1,0 +1,148 @@
+______________________________
+|                            |
+|   Copyright                |
+|      Dragomir Andrei 2024  |
+|                            |
+|____________________________|
+
+---------------------------------------------------------------------
+Nume: Dragomir Andrei
+Grupa: 332CA
+
+COMPUTER TESTING
+
+----------------------------------------------------------------------------
+------------------------REST API CLIENT COMMUNICATION-----------------------
+----------------------------------------------------------------------------
+
+			                        CONTENT
+
+	- schematic representation
+
+    - PCB
+
+    - 3D model
+
+
+----------------------------------------------------------------------------
+
+____________Description___________
+
+
+        The project represents the hardware part of a smartwatch plan
+    similar to how Vector Watch was built. The project consists of
+    an electric schematic and a PCB design. The bonus part is the 3D
+    board rendered using Fusion 360.
+
+
+
+-----------------------------------------------------------------------------
+
+
+
+------------------------------------------------------------------------------
+
+____________Implementation Comments_____________
+
+    
+        Some small errors have been neglected or solved with some small workarounds.
+    The dimensions are as prescripted for the main components. Small components
+    related to bigger ones are placed relatively close to the one piece they are
+    connected to. 
+
+        The board is cut where the radio antena of the ESP32 is placed, to avoid
+    interference with the other components. Components are placed on two different
+    layers as to avoid swarming a single part of the PCB. Power lines are thicker
+    as 0.3mm to avoid overheating and to provide a stable power supply versus
+    the minimum 0.125mm of the data lines.
+
+        The 3D model is a simple representation of the PCB, with the components
+    imported from the PCB design with 3D model from the Web. ERC and DRC checks
+    pass and no other dimensions or connections are violated.
+
+        The lines dont contain any 90 degree angles to avoid signal reflection
+    and the number of viases for power lines is kept to a minimum to avoid (under 5-6
+    for each power type) to avoid overheating and to keep the power supply stable.
+
+        The board is designed to have two ground planes, each on a different layer.
+    The ground plane area is accepted as smaller than usual to compensate for
+    the number of lines neccessary for all the components. 
+
+        The space was limited, so the main objective was keeping the good mechanical
+    measurements in place while not overcrowding the board with components. The
+    board is designed to be as small as possible, while keeping the components
+    in place and the power lines thick enough to avoid overheating.
+
+        Some measurement deltas are used in order to keep everything in line but
+    to still have the well built design that would fit in the desired case. Based
+    on the 3D look of the board, the small overlaps between footprints is accepted
+    as in reality the pieces are not as big in the real 3D world.
+
+        Pieces are organized in structured ways, excepting some that are placed
+    just out of convinience, but keeping that to a minimum. Test points were
+    accepted in 3 regular shapes as to route them in an easier way and still
+    keep them accesible.
+
+
+------------------------------------------------------------------------------
+
+
+
+
+------------------------------------------------------------------------------
+
+_____________Comments_____________
+
+	
+        - a fost interesant sa vad un program ca Fusion pentru asa ceva
+- as lasa proiectul poate ca bonus pentru cei pasionati de asa ceva
+- materia se numeste Testarea Sistemelor de Calcul, nu vad cum se leaga de materie, mai putin fisierele ERC si DRC de verificare
+- nu pot sa zic ca am invatat mare lucru din el, am invatat sa pun forme in alte forme si sa unesc puncte intre ele fara sa ramana spatiu ([Connect Two Dots](https://play.google.com/store/apps/details?id=com.nostel.dot.line.puzzle&hl=en&gl=US&pli=1)), mai ales ca nu ni s-a explicat nimic despre de ce s-a facut schema asa si de ce s-au ales componentele care s-au ales
+- lucrurile din DRC si din restrictii erau de bun simt, adica nu ai nevoie sa faci un PCB asa de complicat (mai ales daca te-ai mai jucat cu placute si PCB-uri) ca sa intelegi ca pad-urile nu ar trebui sa fie prea apropiate intre ele sau de marginea PCB-ului, ca nici traseele nu ar trebui sa fie apropiate, ca antena ar trebui sa fie libera de interferente, ca vias-urile nu trebuie sa fie multe pe traseele de putere, ca traseele de putere nu ar trebui puse la 90 de grade, lucruri care puteau fi prezentate la laborator
+- am facut doar 3 laboratoare de Fusion in care am invatat sa legam 2, maxim 3 componente intre ele, proiectul mi s-a parut mult prea complicat si cu prea multe restrictii pentru un student care nu s-a mai intalnit cu asa ceva (99% dintre noi); pe langa asta, sa avem in vedere ca cine a propus proiectul are in spate o experienta enorma in domeniu, nu cred ca ar trebui sa se pretinda de la niste studenti o performanta foarte buna in legatura cu un proiect de genul, macar daca materia de Fusion se intindea pe tot semestrul si aveai timp sa lucrezi la proiect mai mult timp si poate chiar sa vezi un PCB ceva mai simplu in realitate la final, nu doar in Fusion
+
+        It was interesting to see a program like Fusion works for this and to see
+    how powerful it is. However, the project is a bit complicated and should have
+    relied more on the basis.
+
+        The hardest parts were to make space for all components and lines, as well
+    as solving error and routing signals. The project is a bit too advanced for
+    someone just starting with Fusion, but it was a good experience to see how
+    a PCB is designed and how the components are placed on it.
+
+``
+------------------------------------------------------------------------------
+
+
+
+------------------------------------------------------------------------------
+
+
+______________How to open the project______________
+
+
+    Open each file with Fusion 360.
+
+
+-----------------------------------------------------------------------------
+
+
+
+
+-----------------------------------------------------------------------------
+
+
+Resources:
+
+https://ocw.cs.pub.ro/courses/tsc/proiect2024
+https://ocw.cs.pub.ro/courses/_media/tsc/dimensiuni_1.pdf
+https://ocw.cs.pub.ro/courses/_media/tsc/hector_watch.pdf
+https://componentsearchengine.com/
+https://ro.mouser.com/datasheet/2/315/sw_lt_eng_3529s_side-1289027.pdf
+https://ro.mouser.com/datasheet/2/268/20001984g-846362.pdf
+https://www.ti.com/lit/ds/symlink/drv2605l.pdf?ts=1710844325242&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FDRV2605L%253Futm_source%253Dgoogle%2526utm_medium%253Dcpc%2526utm_campaign%253Dasc-null-null-GPN_EN-cpc-pf-google-eu%2526utm_content%253DDRV2605L%2526ds_k%253DDRV2605L%2526DCM%253Dyes%2526gad_source%253D1%2526gclsrc%253Dds
+https://ro.mouser.com/datasheet/2/783/BST_BMI085_DS001-1509577.pdf
+https://ro.mouser.com/datasheet/2/315/sw_lt_eng_3529s_side-1289027.pdf
+
+
+-----------------------------------------------------------------------------
