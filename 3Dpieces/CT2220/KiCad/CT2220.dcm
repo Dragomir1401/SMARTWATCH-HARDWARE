@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CT2220
+D Test Plugs & Test Jacks 4mmSocket,SolderHole Uninsulated
+K
+F https://as.caltestelectronics.com/public/attachments/CT2220.pdf
+$ENDCMP
+#
+#End Doc Library

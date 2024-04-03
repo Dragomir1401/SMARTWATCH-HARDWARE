@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "CT2220"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2023-07-31-03:58:36)
+    (mountForm default
+        (footprintRef "CT2220")
+        (spec "System")
+    )
+)

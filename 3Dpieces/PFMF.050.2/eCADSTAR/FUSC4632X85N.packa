@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "PFMF_050_2"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2019-10-06-10:24:38)
+    (mountForm default
+        (footprintRef "FUSC4632X85N")
+        (spec "System")
+    )
+)

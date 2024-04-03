@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'PESD3V3S1BLYL'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Nexperia", "PESD3V3S1BLYL" (!) = "", "PESD5V0S1BL315", "Other", "771-PESD3V3S1BLYL", "https://www.mouser.co.uk/ProductDetail/Nexperia/PESD3V3S1BLYL?qs=vLWxofP3U2zWoKHYJMVoKQ%3D%3D", "PESD3V3S1BLYL", "https://www.arrow.com/en/products/pesd3v3s1blyl/nexperia?region=nac", "PESD3V3S1BL - Low capacitance bidirectional ESD protection diode", "https://assets.nexperia.com/documents/data-sheet/PESD3V3S1BL.pdf", "0 mm"
+END_PART
+
+END.

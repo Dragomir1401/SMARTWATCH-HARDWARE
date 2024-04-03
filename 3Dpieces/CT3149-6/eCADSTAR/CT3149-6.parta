@@ -1,0 +1,64 @@
+(Japanese_coding: sjis)
+(function "ECS_1861661"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2023-08-21-06:21:44)
+    (utime 2023-08-21-06:25:13)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+    )
+    (property "symbolName" "CT3149-6")
+)
+
+
+(pinAssign "ECS_1861661"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2023-08-21-06:21:44)
+    (utime 2023-08-21-06:25:13)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_1861661")
+                (port "1" (match "1"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "CT3149-6")
+)
+
+
+(part "CT3149-6"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2023-08-21-06:21:44)
+    (utime 2023-08-21-06:25:13)
+    (packageRef "CT3149-6")
+    (pinAssignRef "ECS_1861661")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "YES")
+    (property "refDesPrefix" "J")
+    (property "description" "Test Plugs & Test Jacks SafetyJack,ShortPin Vert PCB Mount,Blue")
+    (property "Manufacturer_Name" "Cal Test")
+    (property "Manufacturer_Part_Number" "CT3149-6")
+    (property "Mouser_Part_Number" "510-CT3149-6")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Cal-Test/CT3149-6?qs=vgjKjNJexTjVH7JXtDy55g%3D%3D")
+    (property "Arrow_Part_Number" "")
+    (property "Arrow_Price/Stock" "")
+    (property "Datasheet_Link" "https://www.mouser.in/datasheet/2/701/CT3149_drawing-1308432.pdf")
+    (property "compAreaTopHeight" 21)
+)
+
+

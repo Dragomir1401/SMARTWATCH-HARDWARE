@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP HDC1105W-TR
+D LED BLUE-GREEN CLEAR SMD
+K
+F https://media.digikey.com/pdf/Data%20Sheets/Stanley%20Electric%20PDFs/HD_1105W%20Series.pdf
+$ENDCMP
+#
+#End Doc Library

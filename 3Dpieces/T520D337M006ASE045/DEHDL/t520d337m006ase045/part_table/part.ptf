@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'T520D337M006ASE045'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "KEMET", "T520D337M006ASE045" (!) = "", "T520D", "Other", "80-T520D337M006ASE45", "https://www.mouser.co.uk/ProductDetail/KEMET/T520D337M006ASE045?qs=r%2FVmNO8Tjq5oCux98GHlkg%3D%3D", "", "", "Tantalum Capacitors - Polymer 6.3volts 330uF 20% ESR=45", "", "3.1 mm"
+END_PART
+
+END.

@@ -1,0 +1,18 @@
+.XC6220A331MR-G :1 ;LDO Voltage Regulators
+SOT95P280X120-5N
+*STM IC
+*NGS
+*PLB 1="VIN" 2="VSS" 3="CE" 4="NC" 5="VOUT"
+*MXP 5
+*DFN XC6220A331MR-G
+~!Manufacturer_Name (Torex)
+~!Manufacturer_Part_Number (XC6220A331MR-G)
+~!Mouser Part Number (865-XC6220A331MR-G)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Torex-Semiconductor/XC6220A331MR-G?qs=AsjdqWjXhJ8ZSWznL1J0gg%3D%3D)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://www.torexsemi.com/file/xc6220/XC6220.pdf)
+~!Height (1.2mm)
+~!3D_Model (XC6220A331MR-G)
+XC6220A331MR-G
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 

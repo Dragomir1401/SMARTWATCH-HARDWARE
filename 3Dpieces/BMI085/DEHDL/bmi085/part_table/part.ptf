@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'BMI085'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "BOSCH", "BMI085" (!) = "", "BMI085", "Other", "262-BMI085", "https://www.mouser.co.uk/ProductDetail/Bosch-Sensortec/BMI085?qs=y6ZabgHbY%252ByGCM8LfWZyqA%3D%3D", "BMI085", "https://www.arrow.com/en/products/bmi085/bosch", "IMUs - Inertial Measurement Units High-performance IMU BMI085 for virtual and augmented reality applications", "https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BMI085-DS001.pdf", "1 mm"
+END_PART
+
+END.

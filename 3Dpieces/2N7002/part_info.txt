@@ -1,0 +1,9 @@
+Manufacturer=STMicroelectronics
+PartNumber=2N7002
+PartCategory=MOSFET (N-Channel)
+PackageCategory=SOT23 (3-Pin)
+PinCount=3
+Version=2.1
+Released=2024-03-21 12:11:25
+Downloaded=2024-03-27 13:15:33
+3D=Y

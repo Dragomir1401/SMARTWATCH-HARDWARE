@@ -1,0 +1,18 @@
+.MCP73831-2ATI_OT :1 ;Miniature Single-Cell, Fully Integrated Li-Ion, Li-Polymer Charge Management Controller
+SOT95P270X145-5N
+*STM IC
+*NGS
+*PLB 1="STAT" 2="VSS" 3="VBAT" 4="VDD" 5="PROG"
+*MXP 5
+*DFN MCP73831-2ATI_OT
+~!Manufacturer_Name (Microchip)
+~!Manufacturer_Part_Number (MCP73831-2ATI/OT)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (http://ww1.microchip.com/downloads/en/DeviceDoc/20001984g.pdf)
+~!Height (1.45mm)
+~!3D_Model (MCP73831-2ATI_OT)
+MCP73831-2ATI_OT
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 

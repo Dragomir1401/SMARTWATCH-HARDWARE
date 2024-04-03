@@ -1,0 +1,18 @@
+.USBLC6-2SC6Y :1 ;Low Cap. ESD Protection Auto SOT-23-6 STMicroelectronics USBLC6-2SC6Y, Dual Uni-Directional TVS Diode Array, 6-Pin SOT-23
+SOT95P280X145-6N
+*STM D
+*NGS
+*PLB 1="I/O1_1" 2="GND" 3="I/O2_1" 4="I/O2_2" 5="VBUS" 6="I/O1_2"
+*MXP 6
+*DFN USBLC6-2SC6Y
+~!Manufacturer_Name (STMicroelectronics)
+~!Manufacturer_Part_Number (USBLC6-2SC6Y)
+~!Mouser Part Number (511-USBLC6-2SC6Y)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/STMicroelectronics/USBLC6-2SC6Y?qs=gNDSiZmRJS%2FOgDexvXkdow%3D%3D)
+~!Arrow Part Number (USBLC6-2SC6Y)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/usblc6-2sc6y/stmicroelectronics?region=nac)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/1/USBLC6-2SC6Y.pdf)
+~!Height (1.45mm)
+~!3D_Model (USBLC6-2SC6Y)
+USBLC6-2SC6Y
+1.1!U 2.1!U 3.1!U 6.1!U 5.1!U 4.1!U 

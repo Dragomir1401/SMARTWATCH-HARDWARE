@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'CT2220'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Cal Test", "CT2220" (!) = "", "CT2220", "Other", "510-CT2220", "https://www.mouser.com/Search/Refine.aspx?Keyword=510-CT2220", "", "", "Test Plugs & Test Jacks 4mmSocket,SolderHole Uninsulated", "https://as.caltestelectronics.com/public/attachments/CT2220.pdf", "23.5 mm"
+END_PART
+
+END.

@@ -1,0 +1,18 @@
+.PFMF.050.2 :1 ;SCHURTER - PFMF.050.2 - PPTC Resettable Fuse, SMD, PFMF Series, 500 mA, 1 A, 15 VDC, -40 ?C
+FUSC4632X85N
+*STM F
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN PFMF.050.2
+~!Manufacturer_Name (SCHURTER)
+~!Manufacturer_Part_Number (PFMF.050.2)
+~!Mouser Part Number (693-PFMF.050.2)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Schurter/PFMF0502?qs=1auRipcfynCums5v1iucSA%3D%3D)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (http://www.schurterinc.com/bundles/snceschurter/epim/_ProdPool_/newDS/en/typ_PFMF.pdf)
+~!Height (0.85mm)
+~!3D_Model (PFMF.050.2)
+PFMF.050.2
+1.1!U 2.1!U 

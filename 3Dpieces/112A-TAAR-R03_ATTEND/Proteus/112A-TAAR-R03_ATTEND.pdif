@@ -1,0 +1,244 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "112A-TAAR-R03_ATTEND"
+   (description "Micro SD Card Socket, Push-Push Type, Top Mount, SMT, H=1.83mm, 10u")
+   (family "CON")
+   (package "112ATAARR03ATTEND")
+   (attribute "Datasheet Link" "https://www.attend.com.tw/data/download/file/112A-TAAR-R03.pdf")
+   (attribute "Geometry.Height" "1.9mm")
+   (attribute "Manufacturer_Name" "ATTEND")
+   (attribute "Manufacturer_Part_Number" "112A-TAAR-R03 ATTEND")
+   (attribute "Mouser Part Number" "")
+   (attribute "Mouser Price/Stock" "")
+   (attribute "Arrow Part Number" "")
+   (attribute "Arrow Price/Stock" "")
+   (gate
+    (symbol "112A-TAAR-R03_ATTEND")
+    (pin "GND_1" G1 PS)
+    (pin "GND_2" G2 PS)
+    (pin "GND_3" G3 PS)
+    (pin "GND_4" G4 PS)
+    (pin "DAT2" P1 PS)
+    (pin "CD/DAT3" P2 PS)
+    (pin "CMD" P3 PS)
+    (pin "VDD" P4 PS)
+    (pin "CLK" P5 PS)
+    (pin "VSS" P6 PS)
+    (pin "DAT0" P7 PS)
+    (pin "DAT1" P8 PS)
+    (pin "DETECTION_1" S1 PS)
+    (pin "DETECTION_2" S2 PS)
+   )
+  )
+  (symbol "112A-TAAR-R03_ATTEND"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 1400 100) (pt 1400 -700) (pt 200 -700) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -300) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -400) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -500) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -600) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1600 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1600 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1600 -200) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1600 -300) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1600 -400) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1600 -500) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1600 -600) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "112ATAARR03ATTEND"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt 0.07 -4.5)
+      (pt 14.07 -4.5)
+      (pt 14.07 10.7)
+      (pt 0.07 10.7)
+      (pt 0.07 -4.5))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt 0.57 10.7)
+      (pt 0.07 10.7)
+      (pt 0.07 10.7)
+      (pt 0.57 10.7)
+      (pt 0.57 10.7))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt 0.07 -4.5)
+      (pt 12.32 -4.5)
+      (pt 12.32 -4.5)
+      (pt 0.07 -4.5)
+      (pt 0.07 -4.5))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt 14.07 10.7)
+      (pt 12.07 10.7)
+      (pt 12.07 10.7)
+      (pt 14.07 10.7)
+      (pt 14.07 10.7))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1.18 12)
+      (pt 15.37 12)
+      (pt 15.37 -5.8)
+      (pt -1.18 -5.8)
+      (pt -1.18 12))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt 0.07 10.7)
+      (pt 0.07 10.7)
+      (pt 0.07 -1.4)
+      (pt 0.07 -1.4)
+      (pt 0.07 10.7))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt 14.07 -2.15)
+      (pt 14.07 -2.15)
+      (pt 14.07 10.7)
+      (pt 14.07 10.7)
+      (pt 14.07 -2.15))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 10.67 11.8)
+      (arc (pt 10.670 11.800) (pt 10.620 11.700) (pt 10.720 11.800) (start 180.0) (sweep 90.0))
+      (pt 10.67 11.7)
+      (arc (pt 10.670 11.700) (pt 10.620 11.700) (pt 10.720 11.800) (start 180.0) (sweep -90.0))
+      (pt 10.67 11.8)
+      (arc (pt 10.670 11.800) (pt 10.620 11.700) (pt 10.720 11.800) (start 180.0) (sweep 90.0))
+      (pt 10.67 11.7))))
+   (leg G1 (pt 10.600 10.400) (padstack 1))
+   (leg G2 (pt 4.900 10.400) (padstack 2))
+   (leg G3 (pt 13.600 -3.850) (padstack 3))
+   (leg G4 (pt 0.450 -2.850) (padstack 4))
+   (leg P1 (pt 8.800 0.000) (padstack 0))
+   (leg P2 (pt 7.700 0.400) (padstack 0))
+   (leg P3 (pt 6.600 0.000) (padstack 0))
+   (leg P4 (pt 5.500 -0.200) (padstack 0))
+   (leg P5 (pt 4.400 0.000) (padstack 0))
+   (leg P6 (pt 3.300 -0.200) (padstack 0))
+   (leg P7 (pt 2.200 0.000) (padstack 0))
+   (leg P8 (pt 1.100 0.000) (padstack 0))
+   (leg S1 (pt 7.750 10.400) (padstack 13))
+   (leg S2 (pt 2.050 10.400) (padstack 14))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 0.700 1.500 0 0 90.000))
+   )
+   (padstack 1
+    (plated false)
+    (pad (layer TCOP) (rectf 1.200 1.800 0 0 0.000))
+   )
+   (padstack 2
+    (plated false)
+    (pad (layer TCOP) (rectf 1.200 1.800 0 0 0.000))
+   )
+   (padstack 3
+    (plated false)
+    (pad (layer TCOP) (rectf 1.400 1.900 0 0 90.000))
+   )
+   (padstack 4
+    (plated false)
+    (pad (layer TCOP) (rectf 1.400 1.900 0 0 90.000))
+   )
+   (padstack 13
+    (plated false)
+    (pad (layer TCOP) (rectf 1.200 1.800 0 0 0.000))
+   )
+   (padstack 14
+    (plated false)
+    (pad (layer TCOP) (rectf 1.200 1.800 0 0 0.000))
+   )
+   (model "112A-TAAR-R03_ATTEND.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

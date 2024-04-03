@@ -1,0 +1,112 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "PESD3V3S1BLYL"
+   (description "PESD3V3S1BL - Low capacitance bidirectional ESD protection diode")
+   (family "ANA")
+   (package "PESD5V0S1BL315")
+   (attribute "Datasheet Link" "https://assets.nexperia.com/documents/data-sheet/PESD3V3S1BL.pdf")
+   (attribute "Geometry.Height" "0mm")
+   (attribute "Manufacturer_Name" "Nexperia")
+   (attribute "Manufacturer_Part_Number" "PESD3V3S1BLYL")
+   (attribute "Mouser Part Number" "771-PESD3V3S1BLYL")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Nexperia/PESD3V3S1BLYL?qs=vLWxofP3U2zWoKHYJMVoKQ%3D%3D")
+   (attribute "Arrow Part Number" "PESD3V3S1BLYL")
+   (attribute "Arrow Price/Stock" "https://www.arrow.com/en/products/pesd3v3s1blyl/nexperia?region=nac")
+   (gate
+    (symbol "PESD3V3S1BLYL")
+    (pin "K1" 1 PS)
+    (pin "K2" 2 PS)
+   )
+  )
+  (symbol "PESD3V3S1BLYL"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 400 0) (pt 200 -100) (pt 200 100) (pt 400 0) (closed))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 400 0) (pt 600 -100) (pt 600 100) (pt 400 0) (closed))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 400 -180) (pt 400 180))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 440 200) (pt 400 180))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 400 -180) (pt 360 -200))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 0 -20) (rot 0) (just TOP LEFT) (visible false))
+    (number (pt 0 20) (rot 0) (just BOTTOM LEFT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 800 0) (rot 0) (mir X) (visible true))
+    (name (pt 0 -20) (rot 0) (just TOP LEFT) (visible false))
+    (number (pt 0 20) (rot 0) (just BOTTOM LEFT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "PESD5V0S1BL315"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -0.5 0.3)
+      (pt 0.5 0.3)
+      (pt 0.5 -0.3)
+      (pt -0.5 -0.3)
+      (pt -0.5 0.3))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1.05 0.85)
+      (pt 1.05 0.85)
+      (pt 1.05 -0.85)
+      (pt -1.05 -0.85)
+      (pt -1.05 0.85))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -0.8 0.1)
+      (arc (pt -0.800 0.100) (pt -0.850 -0.000) (pt -0.750 0.100) (start -180.0) (sweep 90.0))
+      (pt -0.8 0)
+      (arc (pt -0.800 0.000) (pt -0.850 0.000) (pt -0.750 0.100) (start -180.0) (sweep -90.0))
+      (pt -0.8 0.1))))
+   (leg 1 (pt -0.350 0.000) (padstack 0))
+   (leg 2 (pt 0.350 0.000) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 0.400 0.700 0 0 90.000))
+   )
+   (model "PESD3V3S1BLYL.stp"
+    (euler -90 0 90)
+    (offset 0.75 -0.38999998569488525 0.7699999809265137)
+   )
+  )
+ )
+)

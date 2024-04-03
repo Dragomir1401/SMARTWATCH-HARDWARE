@@ -1,0 +1,9 @@
+Manufacturer=Winbond
+PartNumber=W25Q256JVEIQ
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline No-lead
+PinCount=9
+Version=4.1
+Released=2019-06-14 10:18:49
+Downloaded=2024-03-27 13:18:42
+3D=Y

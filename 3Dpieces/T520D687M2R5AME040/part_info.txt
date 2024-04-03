@@ -1,0 +1,9 @@
+Manufacturer=KEMET
+PartNumber=T520D687M2R5AME040
+PartCategory=Capacitor
+PackageCategory=Other
+PinCount=2
+Version=1.1
+Released=2023-03-07 11:13:37
+Downloaded=2024-03-26 16:27:56
+3D=Y

@@ -1,0 +1,18 @@
+.DRV2605LDGST :1 ;ERM & LRA Device Haptic Driver 2-5V BGA9 Texas Instruments DRV2605LDGST Piezo Haptic Motor Driver IC, 5 V, 10-Pin VSSOP
+SOP50P490X110-10N
+*STM IC
+*NGS
+*PLB 1="REG" 2="SCL" 3="SDA" 4="IN/TRIG" 5="EN" 6="VDD/NC" 7="OUT+" 8="GND" 9="OUT-" 10="VDD"
+*MXP 10
+*DFN DRV2605LDGST
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (DRV2605LDGST)
+~!Mouser Part Number (595-DRV2605LDGST)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/DRV2605LDGST?qs=asCBFxFfL1TjvcNdZsR2BA%3D%3D)
+~!Arrow Part Number (DRV2605LDGST)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/drv2605ldgst/texas-instruments?region=nac)
+~!Link Datasheet (http://www.ti.com/lit/ds/symlink/drv2605l.pdf)
+~!Height (1.1mm)
+~!3D_Model (DRV2605LDGST)
+DRV2605LDGST
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 10.1!U 9.1!U 8.1!U 7.1!U 6.1!U 

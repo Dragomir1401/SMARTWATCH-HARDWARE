@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'T520D687M2R5AME040'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "KEMET", "T520D687M2R5AME040" (!) = "", "T520D", "Other", "80-T520D687M2R5AME40", "https://www.mouser.com/Search/Refine.aspx?Keyword=80-T520D687M2R5AME40", "", "", "Tantalum Capacitors - Polymer SMD 2.5V 680uF 2917 20% ESR=40mOhms", "http://componentsearchengine.com/Datasheets/1/T520D687M2R5AME040.pdf", "3.1 mm"
+END_PART
+
+END.

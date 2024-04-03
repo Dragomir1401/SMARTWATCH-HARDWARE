@@ -1,0 +1,68 @@
+(Japanese_coding: sjis)
+(function "ECS_686258"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2018-11-25-17:56:48)
+    (utime 2023-05-15-10:40:38)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "SD0805S020S1R0")
+)
+
+
+(pinAssign "ECS_686258"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2018-11-25-17:56:48)
+    (utime 2023-05-15-10:40:38)
+    (interface
+        (port "1" (symbPinId 1) (portName "K") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "A") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_686258")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "SD0805S020S1R0")
+)
+
+
+(part "SD0805S020S1R0"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2018-11-25-17:56:48)
+    (utime 2023-05-15-10:40:38)
+    (packageRef "SD0805S020S1R0")
+    (pinAssignRef "ECS_686258")
+    (interface
+        (port "1" (symbPinId 1) (portName "K") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "A") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "D")
+    (property "description" "AVX - SD0805S020S1R0 - DIODE, SCHOTTKY, 1A, 20V, SOD-323")
+    (property "Manufacturer_Name" "AVX")
+    (property "Manufacturer_Part_Number" "SD0805S020S1R0")
+    (property "Mouser_Part_Number" "581-SD0805S020S1R0")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/AVX-Kyocera/SD0805S020S1R0?qs=jCA%252BPfw4LHbpkAoSnwrdjw%3D%3D")
+    (property "Arrow_Part_Number" "SD0805S020S1R0")
+    (property "Arrow_Price/Stock" "https://www.arrow.com/en/products/sd0805s020s1r0/avx?region=nac")
+    (property "Datasheet_Link" "https://componentsearchengine.com/Datasheets/1/SD0805S020S1R0.pdf")
+    (property "compAreaTopHeight" 1)
+)
+
+

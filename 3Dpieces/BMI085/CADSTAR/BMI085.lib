@@ -1,0 +1,18 @@
+.BMI085 :1 ;IMUs - Inertial Measurement Units High-performance IMU BMI085 for virtual and augmented reality applications
+BMI085
+*STM IC
+*NGS
+*PLB 1="INT2" 2="NC" 3="VDD" 4="GNDA" 5="CSB2" 6="GNDIO" 7="PS" 8="SCL/SCK" 9="SDA/SDI" 10="SDO2" 11="VDDIO" 12="INT3" 13="INT4" 14="CSB1" 15="SDO1" 16="INT1"
+*MXP 16
+*DFN BMI085
+~!Manufacturer_Name (BOSCH)
+~!Manufacturer_Part_Number (BMI085)
+~!Mouser Part Number (262-BMI085)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Bosch-Sensortec/BMI085?qs=y6ZabgHbY%252ByGCM8LfWZyqA%3D%3D)
+~!Arrow Part Number (BMI085)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/bmi085/bosch)
+~!Link Datasheet (https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BMI085-DS001.pdf)
+~!Height (1mm)
+~!3D_Model (BMI085)
+BMI085
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 15.1!U 16.1!U 

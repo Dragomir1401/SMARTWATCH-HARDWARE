@@ -1,0 +1,18 @@
+.CT3149-6 :1 ;Test Plugs & Test Jacks SafetyJack,ShortPin Vert PCB Mount,Blue
+CT31496
+*STM J
+*NGS
+*PLB 1="1"
+*MXP 1
+*DFN CT3149-6
+~!Manufacturer_Name (Cal Test)
+~!Manufacturer_Part_Number (CT3149-6)
+~!Mouser Part Number (510-CT3149-6)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Cal-Test/CT3149-6?qs=vgjKjNJexTjVH7JXtDy55g%3D%3D)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://www.mouser.in/datasheet/2/701/CT3149_drawing-1308432.pdf)
+~!Height (21mm)
+~!3D_Model (CT3149-6)
+CT3149-6
+1.1!U 

@@ -1,0 +1,9 @@
+Manufacturer=Stanley Electric
+PartNumber=HDC1105W-TR
+PartCategory=LED
+PackageCategory=Other
+PinCount=2
+Version=1.4
+Released=2020-10-06 14:33:30
+Downloaded=2024-03-27 20:37:46
+3D=Y

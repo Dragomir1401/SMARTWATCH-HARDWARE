@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=DRV2605LDGST
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=10
+Version=2.2
+Released=2017-03-02 09:42:50
+Downloaded=2024-03-27 13:24:49
+3D=Y

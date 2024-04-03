@@ -1,0 +1,18 @@
+.HDC1105W-TR :1 ;LED BLUE-GREEN CLEAR SMD
+HDC1105WTR
+*STM LED
+*NGS
+*PLB 1="K" 2="A"
+*MXP 2
+*DFN HDC1105W-TR
+~!Manufacturer_Name (Stanley Electric)
+~!Manufacturer_Part_Number (HDC1105W-TR)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://media.digikey.com/pdf/Data%20Sheets/Stanley%20Electric%20PDFs/HD_1105W%20Series.pdf)
+~!Height (1.95mm)
+~!3D_Model (HDC1105W-TR)
+HDC1105W-TR
+1.1!U 2.1!U 

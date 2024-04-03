@@ -1,0 +1,18 @@
+.T520D687M2R5AME040 :1 ;Tantalum Capacitors - Polymer SMD 2.5V 680uF 2917 20% ESR=40mOhms
+T520D
+*STM C
+*NGS
+*PLB 1="+" 2="-"
+*MXP 2
+*DFN T520D687M2R5AME040
+~!Manufacturer_Name (KEMET)
+~!Manufacturer_Part_Number (T520D687M2R5AME040)
+~!Mouser Part Number (80-T520D687M2R5AME40)
+~!Link Mouser Price/Stock (https://www.mouser.com/Search/Refine.aspx?Keyword=80-T520D687M2R5AME40)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (http://componentsearchengine.com/Datasheets/1/T520D687M2R5AME040.pdf)
+~!Height (3.1mm)
+~!3D_Model (T520D687M2R5AME040)
+T520D687M2R5AME040
+1.1!U 2.1!U 

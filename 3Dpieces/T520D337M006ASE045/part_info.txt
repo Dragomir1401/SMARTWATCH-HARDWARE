@@ -1,0 +1,9 @@
+Manufacturer=KEMET
+PartNumber=T520D337M006ASE045
+PartCategory=Capacitor
+PackageCategory=Other
+PinCount=2
+Version=1.1
+Released=2023-03-25 15:33:24
+Downloaded=2024-03-27 12:48:23
+3D=Y

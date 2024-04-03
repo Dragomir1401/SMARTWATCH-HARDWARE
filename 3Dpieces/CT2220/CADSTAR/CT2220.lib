@@ -1,0 +1,18 @@
+.CT2220 :1 ;Test Plugs & Test Jacks 4mmSocket,SolderHole Uninsulated
+CT2220
+*STM J
+*NGS
+*PLB 1="1"
+*MXP 1
+*DFN CT2220
+~!Manufacturer_Name (Cal Test)
+~!Manufacturer_Part_Number (CT2220)
+~!Mouser Part Number (510-CT2220)
+~!Link Mouser Price/Stock (https://www.mouser.com/Search/Refine.aspx?Keyword=510-CT2220)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://as.caltestelectronics.com/public/attachments/CT2220.pdf)
+~!Height (23.5mm)
+~!3D_Model (CT2220)
+CT2220
+1.1!U 

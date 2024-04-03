@@ -1,0 +1,18 @@
+.CPF0402B120KE :1 ;TE Connectivity CPF Series Precision Thin Film Surface Mount Resistor 0402 Case 120k +/-0.1% 0.063W +/-25ppm/C
+RESC1005X35N
+*STM R
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN CPF0402B120KE
+~!Manufacturer_Name (TE Connectivity)
+~!Manufacturer_Part_Number (CPF0402B120KE)
+~!Mouser Part Number (279-CPF0402B120KE)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/TE-Connectivity-Holsworthy/CPF0402B120KE?qs=gt1LBUVyoHkYutzwN9BOaQ%3D%3D)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (http://www.farnell.com/datasheets/1786775.pdf)
+~!Height (0.35mm)
+~!3D_Model (CPF0402B120KE)
+CPF0402B120KE
+1.1!U 2.1!U 

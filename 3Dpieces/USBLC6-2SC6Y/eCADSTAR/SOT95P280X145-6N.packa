@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "USBLC6-2SC6Y"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2019-07-19-02:38:30)
+    (mountForm default
+        (footprintRef "SOT95P280X145-6N")
+        (spec "System")
+    )
+)

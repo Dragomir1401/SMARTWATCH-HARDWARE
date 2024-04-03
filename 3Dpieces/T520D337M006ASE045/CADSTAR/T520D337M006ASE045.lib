@@ -1,0 +1,18 @@
+.T520D337M006ASE045 :1 ;Tantalum Capacitors - Polymer 6.3volts 330uF 20% ESR=45
+T520D
+*STM C
+*NGS
+*PLB 1="+" 2="-"
+*MXP 2
+*DFN T520D337M006ASE045
+~!Manufacturer_Name (KEMET)
+~!Manufacturer_Part_Number (T520D337M006ASE045)
+~!Mouser Part Number (80-T520D337M006ASE45)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/KEMET/T520D337M006ASE045?qs=r%2FVmNO8Tjq5oCux98GHlkg%3D%3D)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (-)
+~!Height (3.1mm)
+~!3D_Model (T520D337M006ASE045)
+T520D337M006ASE045
+1.1!U 2.1!U 

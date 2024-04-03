@@ -1,0 +1,9 @@
+Manufacturer=TE Connectivity
+PartNumber=CPF0402B120KE
+PartCategory=Resistor
+PackageCategory=Resistor Chip
+PinCount=2
+Version=1.1
+Released=2023-03-07 10:40:00
+Downloaded=2024-03-26 16:22:12
+3D=Y

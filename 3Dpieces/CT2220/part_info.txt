@@ -1,0 +1,9 @@
+Manufacturer=Cal Test
+PartNumber=CT2220
+PartCategory=Connector
+PackageCategory=Other
+PinCount=1
+Version=1.2
+Released=2023-07-31 03:58:36
+Downloaded=2024-03-27 13:11:33
+3D=Y

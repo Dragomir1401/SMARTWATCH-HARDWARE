@@ -1,0 +1,103 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "CT2220"
+   (description "Test Plugs & Test Jacks 4mmSocket,SolderHole Uninsulated")
+   (family "CON")
+   (package "CT2220")
+   (attribute "Datasheet Link" "https://as.caltestelectronics.com/public/attachments/CT2220.pdf")
+   (attribute "Geometry.Height" "23.5mm")
+   (attribute "Manufacturer_Name" "Cal Test")
+   (attribute "Manufacturer_Part_Number" "CT2220")
+   (attribute "Mouser Part Number" "510-CT2220")
+   (attribute "Mouser Price/Stock" "https://www.mouser.com/Search/Refine.aspx?Keyword=510-CT2220")
+   (attribute "Arrow Part Number" "")
+   (attribute "Arrow Price/Stock" "")
+   (gate
+    (symbol "CT2220")
+    (pin "1" 1 PS)
+   )
+  )
+  (symbol "CT2220"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 600 100) (pt 600 -100) (pt 200 -100) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "CT2220"
+   (units MM)
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -5.9 5.9)
+      (pt 5.9 5.9)
+      (pt 5.9 -5.9)
+      (pt -5.9 -5.9)
+      (pt -5.9 5.9))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -4.9 0)
+      (arc (pt -4.900 0.000) (pt -4.900 -4.900) (pt 4.900 4.900) (start 180.0) (sweep -180.0))
+      (pt 4.9 0)
+      (arc (pt 4.900 0.000) (pt -4.900 -4.900) (pt 4.900 4.900) (start 180.0) (sweep .0))
+      (pt -4.9 0))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -4.9 0)
+      (arc (pt -4.900 0.000) (pt -4.900 -4.900) (pt 4.900 4.900) (start 180.0) (sweep -180.0))
+      (pt 4.9 0)
+      (arc (pt 4.900 0.000) (pt -4.900 -4.900) (pt 4.900 4.900) (start 180.0) (sweep .0))
+      (pt -4.9 0))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -5.4 0)
+      (arc (pt -5.400 0.000) (pt -5.500 -0.050) (pt -5.400 0.050) (start 180.0) (sweep .0))
+      (pt -5.5 0)
+      (arc (pt -5.500 0.000) (pt -5.500 -0.050) (pt -5.400 0.050) (start 180.0) (sweep 180.0))
+      (pt -5.4 0))))
+   (leg 1 (pt 0.000 0.000) (padstack 0))
+   (padstack 0
+    (hole 6)
+    (plated true)
+    (pad (layer TCOP) (round 9.000))
+    (pad (layer INNER) (round 9.000))
+    (pad (layer BCOP) (round 9.000))
+   )
+   (model "CT2220.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

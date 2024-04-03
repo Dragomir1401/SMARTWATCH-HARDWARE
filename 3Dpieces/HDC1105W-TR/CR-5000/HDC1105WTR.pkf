@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "HDC1105WTR"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "HDC1105WTR")
+        (spec "default")
+    )
+)

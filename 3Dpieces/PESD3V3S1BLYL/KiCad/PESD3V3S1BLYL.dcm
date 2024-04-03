@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PESD3V3S1BLYL
+D PESD3V3S1BL - Low capacitance bidirectional ESD protection diode
+K
+F https://assets.nexperia.com/documents/data-sheet/PESD3V3S1BL.pdf
+$ENDCMP
+#
+#End Doc Library

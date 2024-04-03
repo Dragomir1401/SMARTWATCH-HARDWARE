@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DRV2605LDGST
+D ERM & LRA Device Haptic Driver 2-5V BGA9 Texas Instruments DRV2605LDGST Piezo Haptic Motor Driver IC, 5 V, 10-Pin VSSOP
+K
+F http://www.ti.com/lit/ds/symlink/drv2605l.pdf
+$ENDCMP
+#
+#End Doc Library

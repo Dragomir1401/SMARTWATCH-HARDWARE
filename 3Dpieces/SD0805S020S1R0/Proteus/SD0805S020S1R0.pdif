@@ -1,0 +1,123 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "SD0805S020S1R0"
+   (description "AVX - SD0805S020S1R0 - DIODE, SCHOTTKY, 1A, 20V, SOD-323")
+   (family "DIO")
+   (package "SD0805S020S1R0")
+   (attribute "Datasheet Link" "https://componentsearchengine.com/Datasheets/1/SD0805S020S1R0.pdf")
+   (attribute "Geometry.Height" "1mm")
+   (attribute "Manufacturer_Name" "AVX")
+   (attribute "Manufacturer_Part_Number" "SD0805S020S1R0")
+   (attribute "Mouser Part Number" "581-SD0805S020S1R0")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/AVX-Kyocera/SD0805S020S1R0?qs=jCA%252BPfw4LHbpkAoSnwrdjw%3D%3D")
+   (attribute "Arrow Part Number" "SD0805S020S1R0")
+   (attribute "Arrow Price/Stock" "https://www.arrow.com/en/products/sd0805s020s1r0/avx?region=nac")
+   (gate
+    (symbol "SD0805S020S1R0")
+    (pin "K" 1 PS)
+    (pin "A" 2 PS)
+   )
+  )
+  (symbol "SD0805S020S1R0"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 300 100) (pt 300 -100))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 300 100) (pt 340 100) (pt 340 60))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 300 -100) (pt 260 -100) (pt 260 -60))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 200 0) (pt 300 0))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 500 0) (pt 600 0))
+   )
+   (graphic
+    (stroke 10)
+    (path (closed true) (pt 300 0) (pt 500 100) (pt 500 -100) (pt 300 0))
+   )
+   (terminal
+    (body (symbol "PINSHORT") (pt 100 0) (rot 0) (mir 0) (visible true))
+    (name (pt 140 10) (rot 0) (just MIDDLE LEFT) (visible false))
+    (number (pt 60 10) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PINSHORT") (pt 700 0) (rot 0) (mir X) (visible true))
+    (name (pt 140 10) (rot 0) (just MIDDLE LEFT) (visible false))
+    (number (pt 60 10) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "SD0805S020S1R0"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1 0.65)
+      (pt 1 0.65)
+      (pt 1 -0.65)
+      (pt -1 -0.65)
+      (pt -1 0.65))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -2.45 1.65)
+      (pt 2.45 1.65)
+      (pt 2.45 -1.65)
+      (pt -2.45 -1.65)
+      (pt -2.45 1.65))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -0.8 0.125)
+      (pt -0.275 0.65))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -2 0.1)
+      (arc (pt -2.000 0.100) (pt -2.100 -0.100) (pt -1.900 0.100) (start 180.0) (sweep 90.0))
+      (pt -2 -0.1)
+      (arc (pt -2.000 -0.100) (pt -2.100 -0.100) (pt -1.900 0.100) (start 180.0) (sweep -90.0))
+      (pt -2 0.1))))
+   (leg 1 (pt -1.050 0.000) (padstack 0))
+   (leg 2 (pt 1.050 0.000) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 0.800 0.900 0 0 90.000))
+   )
+   (model "SD0805S020S1R0.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '2N7002'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "STMicroelectronics", "2N7002" (!) = "", "SOT96P237X111-3N", "SOT23 (3-Pin)", "511-2N7002", "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/2N7002?qs=gr8Zi5OG3MhbM22ee9cxCw%3D%3D", "2N7002", "https://www.arrow.com/en/products/2n7002/stmicroelectronics", "MOSFET N-CH 60V 0.2A SOT-23", "https://componentsearchengine.com/Datasheets/2/2N7002.pdf", "1.11 mm"
+END_PART
+
+END.

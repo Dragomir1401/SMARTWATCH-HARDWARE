@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "112ATAARR03ATTEND"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "112ATAARR03ATTEND")
+        (spec "default")
+    )
+)

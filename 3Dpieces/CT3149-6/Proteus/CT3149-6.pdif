@@ -1,0 +1,103 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "CT3149-6"
+   (description "Test Plugs & Test Jacks SafetyJack,ShortPin Vert PCB Mount,Blue")
+   (family "CON")
+   (package "CT31496")
+   (attribute "Datasheet Link" "https://www.mouser.in/datasheet/2/701/CT3149_drawing-1308432.pdf")
+   (attribute "Geometry.Height" "21mm")
+   (attribute "Manufacturer_Name" "Cal Test")
+   (attribute "Manufacturer_Part_Number" "CT3149-6")
+   (attribute "Mouser Part Number" "510-CT3149-6")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Cal-Test/CT3149-6?qs=vgjKjNJexTjVH7JXtDy55g%3D%3D")
+   (attribute "Arrow Part Number" "")
+   (attribute "Arrow Price/Stock" "")
+   (gate
+    (symbol "CT3149-6")
+    (pin "1" 1 PS)
+   )
+  )
+  (symbol "CT3149-6"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 600 100) (pt 600 -100) (pt 200 -100) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "CT31496"
+   (units MM)
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -7.75 7.75)
+      (pt 7.75 7.75)
+      (pt 7.75 -7.75)
+      (pt -7.75 -7.75)
+      (pt -7.75 7.75))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -6.75 0)
+      (arc (pt -6.750 0.000) (pt -6.750 -6.750) (pt 6.750 6.750) (start 180.0) (sweep -180.0))
+      (pt 6.75 0)
+      (arc (pt 6.750 0.000) (pt -6.750 -6.750) (pt 6.750 6.750) (start 180.0) (sweep .0))
+      (pt -6.75 0))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -6.75 0)
+      (arc (pt -6.750 0.000) (pt -6.750 -6.750) (pt 6.750 6.750) (start 180.0) (sweep -180.0))
+      (pt 6.75 0)
+      (arc (pt 6.750 0.000) (pt -6.750 -6.750) (pt 6.750 6.750) (start 180.0) (sweep .0))
+      (pt -6.75 0))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt 7.2 0)
+      (arc (pt 7.200 0.000) (pt 7.200 -0.050) (pt 7.300 0.050) (start 180.0) (sweep -180.0))
+      (pt 7.3 0)
+      (arc (pt 7.300 0.000) (pt 7.200 -0.050) (pt 7.300 0.050) (start 180.0) (sweep .0))
+      (pt 7.2 0))))
+   (leg 1 (pt 0.000 0.000) (padstack 0))
+   (padstack 0
+    (hole 2)
+    (plated true)
+    (pad (layer TCOP) (square 3.000))
+    (pad (layer INNER) (round 3.000))
+    (pad (layer BCOP) (square 3.000))
+   )
+   (model "CT3149-6.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

@@ -1,0 +1,9 @@
+Manufacturer=GCT (GLOBAL CONNECTOR TECHNOLOGY)
+PartNumber=USB4500-03-1-A
+PartCategory=Connector
+PackageCategory=Other
+PinCount=20
+Version=1.2
+Released=2021-11-29 14:30:22
+Downloaded=2024-03-27 13:58:44
+3D=Y

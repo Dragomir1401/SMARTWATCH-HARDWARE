@@ -1,0 +1,18 @@
+.BCR133 :1 ;Infineon, BCR133 NPN Digital Transistor, 100 mA 50 V 10 k, Ratio Of 1, 3-Pin SOT-23
+SOT95P240X110-3N
+*STM Q
+*NGS
+*PLB 1="B" 2="E" 3="C"
+*MXP 3
+*DFN BCR133
+~!Manufacturer_Name (Infineon)
+~!Manufacturer_Part_Number (BCR133)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://www.infineon.com/dgdl/Infineon-BCR133SERIES-DS-v01_01-en.pdf?fileId=db3a30431428a37301143f7f8a3f0288)
+~!Height (1.1mm)
+~!3D_Model (BCR133)
+BCR133
+1.1!U 2.1!U 3.1!U 

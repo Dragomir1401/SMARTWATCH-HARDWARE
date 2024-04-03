@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'DRV2605LDGST'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "DRV2605LDGST" (!) = "", "SOP50P490X110-10N", "Small Outline Packages", "595-DRV2605LDGST", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/DRV2605LDGST?qs=asCBFxFfL1TjvcNdZsR2BA%3D%3D", "DRV2605LDGST", "https://www.arrow.com/en/products/drv2605ldgst/texas-instruments?region=nac", "ERM & LRA Device Haptic Driver 2-5V BGA9 Texas Instruments DRV2605LDGST Piezo Haptic Motor Driver IC, 5 V, 10-Pin VSSOP", "http://www.ti.com/lit/ds/symlink/drv2605l.pdf", "1.1 mm"
+END_PART
+
+END.

@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "112A-TAAR-R03_ATTEND"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2020-12-01-11:59:55)
+    (mountForm default
+        (footprintRef "112ATAARR03ATTEND")
+        (spec "System")
+    )
+)

@@ -1,0 +1,28 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model T520D337M006ASE045
+#/17638273/1356358/2.50/2/5/Capacitor
+DEF T520D337M006ASE045 C 0 30 Y Y 1 F N
+F0 "C" 350 250 50 H V L CNN
+F1 "T520D337M006ASE045" 350 150 50 H V L CNN
+F2 "T520D" 350 50 50 H I L CNN
+F3 "" 350 -50 50 H I L CNN
+F4 "Tantalum Capacitors - Polymer 6.3volts 330uF 20% ESR=45" 350 -150 50 H I L CNN "Description"
+F5 "3.1" 350 -250 50 H I L CNN "Height"
+F6 "KEMET" 350 -350 50 H I L CNN "Manufacturer_Name"
+F7 "T520D337M006ASE045" 350 -450 50 H I L CNN "Manufacturer_Part_Number"
+F8 "80-T520D337M006ASE45" 350 -550 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/KEMET/T520D337M006ASE045?qs=r%2FVmNO8Tjq5oCux98GHlkg%3D%3D" 350 -650 50 H I L CNN "Mouser Price/Stock"
+F10 "" 350 -750 50 H I L CNN "Arrow Part Number"
+F11 "" 350 -850 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X ~ 1 0 0 200 R 50 50 0 0 P
+X ~ 2 500 0 200 L 50 50 0 0 P
+P 2 0 1 6 220 100 220 -100 N
+P 2 0 1 6 280 100 280 -100 N
+P 2 0 1 6 200 0 220 0 N
+P 2 0 1 6 280 0 300 0 N
+ENDDRAW
+ENDDEF
+#
+#End Library

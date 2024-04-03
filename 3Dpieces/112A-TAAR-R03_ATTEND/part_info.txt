@@ -1,0 +1,9 @@
+Manufacturer=ATTEND
+PartNumber=112A-TAAR-R03 ATTEND
+PartCategory=Connector
+PackageCategory=Other
+PinCount=14
+Version=1.7
+Released=2020-12-01 11:59:55
+Downloaded=2024-03-27 14:09:55
+3D=Y

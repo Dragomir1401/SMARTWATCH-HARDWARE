@@ -1,0 +1,18 @@
+.EVQP7B01K :1 ;Black Push Plate Tactile Switch, SPST-NO 50 mA 1.35mm
+EVQP7B01K
+*STM S
+*NGS
+*PLB 1="NO_1" 2="COM_1" 3="COM_2" 4="NO_2"
+*MXP 4
+*DFN EVQP7B01K
+~!Manufacturer_Name (Panasonic)
+~!Manufacturer_Part_Number (EVQP7B01K)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://docs.rs-online.com/e556/0900766b810ad339.pdf)
+~!Height (1.35mm)
+~!3D_Model (EVQP7B01K)
+EVQP7B01K
+1.1!U 2.1!U 3.1!U 4.1!U 

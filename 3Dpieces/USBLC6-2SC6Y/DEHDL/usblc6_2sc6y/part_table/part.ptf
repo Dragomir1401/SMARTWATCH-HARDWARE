@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'USBLC6_2SC6Y'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT", "TJ", "TKNEE", "MTBF", "POWER", "SLOPE", "SUBTYPE", "PACKAGE", "IF", "IR", "RJA", "BV", "VC", "IPP", "VRWM", "IT";
+{========================================================================================}
+ "STMicroelectronics", "USBLC6-2SC6Y" (!) = "", "SOT95P280X145-6N", "SOT23 (6-Pin)", "511-USBLC6-2SC6Y", "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/USBLC6-2SC6Y?qs=gNDSiZmRJS%2FOgDexvXkdow%3D%3D", "USBLC6-2SC6Y", "https://www.arrow.com/en/products/usblc6-2sc6y/stmicroelectronics?region=nac", "Low Cap. ESD Protection Auto SOT-23-6 STMicroelectronics USBLC6-2SC6Y, Dual Uni-Directional TVS Diode Array, 6-Pin SOT-23", "https://componentsearchengine.com/Datasheets/1/USBLC6-2SC6Y.pdf", "1.45 mm", "150", "", "", "", "", "UNIDIRECTIONAL TVS SMD", "SOT23-6L", "", "", "", "6", "12", "1", "5.25", ""
+END_PART
+
+END.

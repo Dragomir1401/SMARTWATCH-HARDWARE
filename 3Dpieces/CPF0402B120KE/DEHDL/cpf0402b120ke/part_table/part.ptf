@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'CPF0402B120KE'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "TE Connectivity", "CPF0402B120KE" (!) = "", "RESC1005X35N", "Resistor Chip", "279-CPF0402B120KE", "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-Holsworthy/CPF0402B120KE?qs=gt1LBUVyoHkYutzwN9BOaQ%3D%3D", "", "", "TE Connectivity CPF Series Precision Thin Film Surface Mount Resistor 0402 Case 120k +/-0.1% 0.063W +/-25ppm/C", "http://www.farnell.com/datasheets/1786775.pdf", "0.35 mm"
+END_PART
+
+END.

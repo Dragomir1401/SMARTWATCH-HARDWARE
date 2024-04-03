@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MCP73831_2ATI_OT'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Microchip", "MCP73831-2ATI/OT" (!) = "", "SOT95P270X145-5N", "SOT23 (5-Pin)", "", "", "", "", "Miniature Single-Cell, Fully Integrated Li-Ion, Li-Polymer Charge Management Controller", "http://ww1.microchip.com/downloads/en/DeviceDoc/20001984g.pdf", "1.45 mm"
+END_PART
+
+END.

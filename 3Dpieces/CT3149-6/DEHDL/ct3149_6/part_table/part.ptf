@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'CT3149_6'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Cal Test", "CT3149-6" (!) = "", "CT31496", "Other", "510-CT3149-6", "https://www.mouser.co.uk/ProductDetail/Cal-Test/CT3149-6?qs=vgjKjNJexTjVH7JXtDy55g%3D%3D", "", "", "Test Plugs & Test Jacks SafetyJack,ShortPin Vert PCB Mount,Blue", "https://www.mouser.in/datasheet/2/701/CT3149_drawing-1308432.pdf", "21 mm"
+END_PART
+
+END.

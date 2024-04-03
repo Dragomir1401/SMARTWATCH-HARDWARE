@@ -1,0 +1,9 @@
+Manufacturer=AVX
+PartNumber=SD0805S020S1R0
+PartCategory=Schottky Diode
+PackageCategory=Other
+PinCount=2
+Version=1.1
+Released=2018-11-25 17:56:48
+Downloaded=2024-03-26 16:03:45
+3D=Y

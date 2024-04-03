@@ -1,0 +1,18 @@
+.SD0805S020S1R0 :1 ;AVX - SD0805S020S1R0 - DIODE, SCHOTTKY, 1A, 20V, SOD-323
+SD0805S020S1R0
+*STM D
+*NGS
+*PLB 1="K" 2="A"
+*MXP 2
+*DFN SD0805S020S1R0
+~!Manufacturer_Name (AVX)
+~!Manufacturer_Part_Number (SD0805S020S1R0)
+~!Mouser Part Number (581-SD0805S020S1R0)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/AVX-Kyocera/SD0805S020S1R0?qs=jCA%252BPfw4LHbpkAoSnwrdjw%3D%3D)
+~!Arrow Part Number (SD0805S020S1R0)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/sd0805s020s1r0/avx?region=nac)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/1/SD0805S020S1R0.pdf)
+~!Height (1mm)
+~!3D_Model (SD0805S020S1R0)
+SD0805S020S1R0
+1.1!U 2.1!U 

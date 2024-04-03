@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "HDC1105W-TR"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2020-10-06-14:33:30)
+    (mountForm default
+        (footprintRef "HDC1105WTR")
+        (spec "System")
+    )
+)

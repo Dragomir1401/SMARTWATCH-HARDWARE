@@ -1,0 +1,18 @@
+.PESD3V3S1BLYL :1 ;PESD3V3S1BL - Low capacitance bidirectional ESD protection diode
+PESD5V0S1BL315
+*STM D
+*NGS
+*PLB 1="K1" 2="K2"
+*MXP 2
+*DFN PESD3V3S1BLYL
+~!Manufacturer_Name (Nexperia)
+~!Manufacturer_Part_Number (PESD3V3S1BLYL)
+~!Mouser Part Number (771-PESD3V3S1BLYL)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Nexperia/PESD3V3S1BLYL?qs=vLWxofP3U2zWoKHYJMVoKQ%3D%3D)
+~!Arrow Part Number (PESD3V3S1BLYL)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/pesd3v3s1blyl/nexperia?region=nac)
+~!Link Datasheet (https://assets.nexperia.com/documents/data-sheet/PESD3V3S1BL.pdf)
+~!Height (0mm)
+~!3D_Model (PESD3V3S1BLYL)
+PESD3V3S1BLYL
+1.1!U 2.1!U 

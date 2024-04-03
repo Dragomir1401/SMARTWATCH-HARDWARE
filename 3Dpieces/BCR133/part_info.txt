@@ -1,0 +1,9 @@
+Manufacturer=Infineon
+PartNumber=BCR133
+PartCategory=Transistor BJT NPN
+PackageCategory=SOT23 (3-Pin)
+PinCount=3
+Version=2.1
+Released=2017-07-03 15:16:21
+Downloaded=2024-03-27 20:55:11
+3D=Y
